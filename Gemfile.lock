@@ -3,7 +3,7 @@ GEM
   specs:
     backports (3.6.7)
     multi_json (1.11.2)
-    puma (2.15.3)
+    puma (3.12.6)
     rack (1.6.13)
     rack-protection (1.5.5)
       rack
